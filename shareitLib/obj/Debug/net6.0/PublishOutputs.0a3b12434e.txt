@@ -1,0 +1,7 @@
+/home/adalberto/shareWifi/shareitLib/bin/Debug/net6.0/publish/shareitLib.dll
+/home/adalberto/shareWifi/shareitLib/bin/Debug/net6.0/publish/shareitLib.deps.json
+/home/adalberto/shareWifi/shareitLib/bin/Debug/net6.0/publish/shareitLib.pdb
+/home/adalberto/shareWifi/shareitLib/bin/Debug/net6.0/publish/Microsoft.OpenApi.dll
+/home/adalberto/shareWifi/shareitLib/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/adalberto/shareWifi/shareitLib/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/adalberto/shareWifi/shareitLib/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

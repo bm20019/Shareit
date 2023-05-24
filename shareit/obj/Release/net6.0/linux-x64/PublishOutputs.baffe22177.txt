@@ -1,0 +1,5 @@
+/home/adalberto/shareWifi/shareit/bin/Release/net6.0/linux-x64/publish/appsettings.Development.json
+/home/adalberto/shareWifi/shareit/bin/Release/net6.0/linux-x64/publish/appsettings.json
+/home/adalberto/shareWifi/shareit/bin/Release/net6.0/linux-x64/publish/shareit.pdb
+/home/adalberto/shareWifi/shareit/bin/Release/net6.0/linux-x64/publish/shareitLib.pdb
+/home/adalberto/shareWifi/shareit/bin/Release/net6.0/linux-x64/publish/shareit

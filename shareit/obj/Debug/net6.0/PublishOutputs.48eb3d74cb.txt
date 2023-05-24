@@ -1,0 +1,17 @@
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/shareit
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/appsettings.Development.json
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/appsettings.json
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/shareit.dll
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/shareit.deps.json
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/shareit.runtimeconfig.json
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/shareit.pdb
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/Microsoft.Extensions.Configuration.dll
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/Microsoft.Extensions.Configuration.CommandLine.dll
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/Microsoft.Extensions.Primitives.dll
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/Microsoft.OpenApi.dll
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/shareitLib.dll
+/home/adalberto/shareWifi/shareit/bin/Debug/net6.0/publish/shareitLib.pdb

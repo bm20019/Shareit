@@ -1,0 +1,12 @@
+/home/adalberto/shareWifi/shareitLib/bin/Debug/net6.0/shareitLib.deps.json
+/home/adalberto/shareWifi/shareitLib/bin/Debug/net6.0/shareitLib.dll
+/home/adalberto/shareWifi/shareitLib/bin/Debug/net6.0/shareitLib.pdb
+/home/adalberto/shareWifi/shareitLib/obj/Debug/net6.0/shareitLib.csproj.AssemblyReference.cache
+/home/adalberto/shareWifi/shareitLib/obj/Debug/net6.0/shareitLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/adalberto/shareWifi/shareitLib/obj/Debug/net6.0/shareitLib.AssemblyInfoInputs.cache
+/home/adalberto/shareWifi/shareitLib/obj/Debug/net6.0/shareitLib.AssemblyInfo.cs
+/home/adalberto/shareWifi/shareitLib/obj/Debug/net6.0/shareitLib.csproj.CoreCompileInputs.cache
+/home/adalberto/shareWifi/shareitLib/obj/Debug/net6.0/shareitLib.dll
+/home/adalberto/shareWifi/shareitLib/obj/Debug/net6.0/refint/shareitLib.dll
+/home/adalberto/shareWifi/shareitLib/obj/Debug/net6.0/shareitLib.pdb
+/home/adalberto/shareWifi/shareitLib/obj/Debug/net6.0/ref/shareitLib.dll
